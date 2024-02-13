@@ -8,6 +8,8 @@ To play the game:
 2) after installing winrar extract the rar file given.
 3) Find the file Flappy Bird.exe
 4) run it and your game will open.
+5) click on play button to start the game.
+6) use left mouse button or space to make the bird fly.
 
 The game I've build is the flappy bird.
 I've watched few tutorials to do so.
